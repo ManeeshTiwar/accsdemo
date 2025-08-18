@@ -59,7 +59,7 @@ main > .section .carousel-wrapper {
 .carousel .carousel-slide .carousel-slide-image picture > img {
     height: 100%;
     width: 100%;
-    object-fit: cover;
+    /* object-fit: cover; */
 }
 
 .carousel .carousel-slide .carousel-slide-content {
